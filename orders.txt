@@ -1,0 +1,7 @@
+1001|Amit|Veg Burger|2|120.0|Delivered
+1002|Priya|Pizza|1|350.0|Preparing
+1003|Rahul|Biryani|2|220.0|Placed
+1004|Neha|Pasta|1|180.0|Delivered
+1005|Arjun|Sandwich|3|90.0|Delivered
+1006|Nilakshi|Burger|2|100.0|Placed
+1007|Vaibhav|Pizza|1|200.0|Preparing
